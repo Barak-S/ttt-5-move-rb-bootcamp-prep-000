@@ -12,7 +12,7 @@ def input_to_index(strNum)
   index
 end
 
-def move(board,index, player)
+def move(board,index, player = "X")
   
   
   
